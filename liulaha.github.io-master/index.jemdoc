@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Huan Liu -- Homepage
+
+~~~
+{}{img_left}{HuanLiu.png}{78}{125}
+PhD Student \n 
+[http://eie.xjtu.edu.cn School of Electronic and Information Engineering] \n
+[http://www.xjtu.edu.cn Xi'an Jiaotong University (XJTU)]\n
+No.28, Xianning West Road \n 
+Xi'an, Shaanxi, 710049, China \n
+Email: /huanliucs/@gmail.com
+~~~
+
+== About me
+I am a fifth year Ph.D student supervised by [http://gr.xjtu.edu.cn/web/qhzheng Prof. Qinghua Zheng] at the School of Electronic and Information Engineering, Xi’an Jiaotong University (XJTU). Now I am a Visiting Student working with [http://www.linayao.com/ Dr. Lina Yao] at the School of Computer Science and Engineering, [https://www.unsw.edu.au/ The University of New South Wales, Australia (UNSW)]. From 05[/]2015 to 05[/]2016, I was a Visiting Student working with [http://cs.uncc.edu/directory/ge-yong Prof. Yong Ge] at the College of Computing and Informatics, [http://www.uncc.edu The University of North Carolina at Charlotte (UNCC)]. I received the B.E. degree from the School of Electronic and Information Engineering, Xi’an Jiaotong University, Xi’an, China, in 2013. 
+
+== Research Interests
+My research interests include 
+- Data Mining
+- Machine Learning
+- Multimedia Event Detection
+- Public Opinion Analysis
+
+== Recent Publications 
+. *\Huan Liu*\, Qinghua Zheng, Minnan Luo, Dingwen Zhang, Xiaojun Chang, Deng Cheng. How Unlabeled Web Videos Help Complex Event Detection? In Proceedings of 26th International Joint Conference on Artificial Intelligence (IJCAI), 2017, 4040--4046.
+. *\Huan Liu*\, Yong Ge, Qinghua Zheng, Rongcheng Lin, Huayu Li. Detecting Global and Local Topics via Mining Twitter Data. Neurocomputing, 2018, 273:120--132.
+. *\Huan Liu*\, Qinghua Zheng, Zhihui Li, Tao Qin, Lei Zhu. An Efficient Multi-Feature SVM Solver for Complex Event Detection. Multimedia tools and applications, 2018, 77(3):3509--3532.
+. *\Huan Liu*\, Qinghua Zheng, Buyue Qian, Minnan Luo, Lina Yao, Xiaojun Chang, Hongwei Zeng. Weakly Supervised Video Classification with Multimodal Embedding-Based Memory Networks. IEEE Transactions on Image Processing. Under Review.
+. Caixia Yan, Minnan Luo, *\Huan Liu*\, Zhihui Li, Qinghua Zheng. Top-k Multi-Class SVM Using Multiple Features. Information Sciences, 2018, 432:479--494.
+. Zhen Peng, Minnan Luo, Jundong Li, *\Huan Liu*\, Qinghua Zheng. ANOMALOUS: A Joint ModelingApproach for Anomaly Detection on Attributed Networks. In Proceedings of 27th International Joint Conference on Artificial Intelligence (IJCAI), 2018, 3513--3519.
+. Gang Wei, Minnan Luo, *\Huan Liu*\, Donghui Zhang, Qinghua Zheng. Progressive Generative Adversarial Networks with Reliable Sample Identification. Pattern Recognition Letters, 2019, accepted, DOI: 10.1016/j.patrec.2019.01.007.
+. Yanping Chen, Qinghua Zheng, Feng Tian, *\Huan Liu*\, Yazhou Hao, Nazaraf Shah, Exploring Open Information via Event Network, Natural Language Engineering, 2017, 24(2):199--220.
